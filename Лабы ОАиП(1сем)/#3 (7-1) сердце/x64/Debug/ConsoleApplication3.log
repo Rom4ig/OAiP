@@ -1,0 +1,4 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppClean.targets(76,5): warning : Отказано в доступе по пути "c:\users\roman\desktop\1 курс\1 семестр\лабы оаип\#3 (7-1) сердце\x64\debug\consoleapplication3.exe".
+  stdafx.cpp
+  10.cpp
+LINK : fatal error LNK1104: не удается открыть файл "C:\Users\Roman\Desktop\1 курс\1 семестр\Лабы ОАиП\#3 (7-1) сердце\x64\Debug\ConsoleApplication3.exe"
